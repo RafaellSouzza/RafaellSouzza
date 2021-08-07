@@ -42,11 +42,9 @@ I use Github as a repository, learning and networking way of projects, some of m
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/RafaCitriny/)](https://t.me/RafaCitriny/)
 
-<!--
 <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/duartecgustavo/duartecgustavo.svg" />
-
 <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
--->
+
 
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/RafaellSouzza)](https://gist.github.com/RafaellSouzza)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaellSouzza)](https://github.com/RafaellSouzza)
