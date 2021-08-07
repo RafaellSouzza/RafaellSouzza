@@ -33,7 +33,7 @@ I use Github as a repository, learning and networking way of projects, some of m
 <div style="diplay:flex; border: 3px solid red" align="center">
 <!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
 
-<img width="28%" align="top" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellSouzza&count_private=true&theme=dracula">
+<img width="28%" align="top" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssantos&count_private=true&theme=dracula">
   
 <img width="67%" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api?username=RafaellSouzza&show_icons=true&theme=tokyonight" />
   
