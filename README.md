@@ -27,6 +27,7 @@ Uso o Github como uma forma de repositório, aprendizado e forma de fazer networ
 I use Github as a repository, learning and networking way of projects, some of my projects are public, so feel free. 
  😉
 <p/>
+ 
 ---
 
 <div style="diplay:flex; border: 3px solid red" align="center">
