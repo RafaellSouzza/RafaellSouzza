@@ -35,7 +35,7 @@ I use Github as a repository, learning and networking way of projects, some of m
 
 <img width="28%" align="top" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssantos&count_private=true&theme=dracula">
   
-<img width="67%" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api?username=alexssantos&show_icons=true&theme=tokyonight" />
+<img width="67%" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api?username=hallpaz&show_icons=true&theme=tokyonight" />
   
 <div/>
 
