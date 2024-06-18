@@ -1,63 +1,46 @@
-<h1 align="center"> Rafael Soares ✌🤖 </h1>
+<h1 align="center">Rafael Soares ✌🤖</h1>
 
 <p align="center">
- You're <b>welcome!</b>
- Seja <b>bem-vindo!<b>
-<p/>
-
-<p align="center">
-Meu nome é Rafael Soares, estou cursando Engenharia da computação e atuo como Desenvolverdor Full Stack atualmente na @Radix
-</p>
-<p align="center">
-My name is Rafael Soares, I'm studying Computer Engineering and currently work as a Full Stack Developer at @Radix
+  <strong>You're welcome! Seja bem-vindo!</strong>
 </p>
 
 <p align="center">
-Pretendo focar na carreira de Desenvolvedor Full-Stack e me dedicar a aprender novas tecnologias, me aventuro nas linguagens C#, JavaScript, Python, Java e TypeScript, já tive experiências com .Net Web API, Angular App, configuração do SignalR e microsserviços, Django e pretendo buscar mais experiência. 
-<p/>
-<p align="center">
-I intend to focus on my career as a Full-Stack Developer and dedicate myself to learning new technologies, I venture into C#, JavaScript, Python, Java and TypeScript, I've already had experiences with .Net Web API, Angular App, SignalR configuration and microservices, Django and I intend to seek more experience.
-<p/>
+  Sou Rafael Soares, estudante de Engenharia da Computação e desenvolvedor Full Stack. Meu foco é continuar aprimorando minhas habilidades em desenvolvimento de software e explorar novas tecnologias.
+</p>
 
 <p align="center">
-Uso o Github como uma forma de repositório, aprendizado e forma de fazer network de projetos, alguns projetos meus são públicos, então fique à vontade. 
- 😉
-<p/>
+  Tenho experiência em linguagens como C#, JavaScript, Python, Java e TypeScript e ferramentas como .Net Web API, Angular, SignalR e Django. Estou sempre buscando novos desafios e conhecimentos, principalmente em desenvolvimento de microsserviços e aplicações web modernas.
+</p>
+
 <p align="center">
-I use Github as a repository, learning and networking way of projects, some of my projects are public, so feel free. 
- 😉
-<p/>
- 
+  Utilizo o GitHub não só como um repositório para meus projetos, mas também como uma plataforma de aprendizado e networking. Vários de meus projetos estão disponíveis publicamente aqui, então sinta-se à vontade para explorá-los.
+</p>
+
 ---
 
-<div style="diplay:flex; border: 3px solid red" align="center">
-<!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
+<div style="display: flex; justify-content: center; align-items: center; border: 3px solid red;">
+  <img width="28%" align="top" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellSouzza&count_private=true&theme=dracula">
+  <img width="67%" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api?username=RafaellSouzza&show_icons=true&theme=tokyonight" />
+</div>
 
-<img width="28%" align="top" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellSouzza&count_private=true&theme=dracula">
-  
-<img width="67%" alt="Rafael Soares's github stats" src="https://github-readme-stats.vercel.app/api?username=RafaellSouzza&show_icons=true&theme=tokyonight" />
-  
-<div/>
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-citriny1994/)](https://www.linkedin.com/in/rafael-citriny1994/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlcitriny@gmail.com)](mailto:rlcitriny@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/RafaCitriny/)](https://t.me/RafaCitriny/)
-<img alt="ProfilViews" src="https://views.whatilearened.today/views/github/duartecgustavo/duartecgustavo.svg" />
-<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
-[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/RafaellSouzza)](https://gist.github.com/RafaellSouzza)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaellSouzza)](https://github.com/RafaellSouzza)
-
-<!--
-**RafaellSouzza/RafaellSouzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-citriny1994/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rlcitriny@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/RafaCitriny/">
+    <img alt="Telegram Badge" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white"/>
+  </a>
+  <img alt="Profile Views" src="https://views.whatilearened.today/views/github/RafaellSouzza/RafaellSouzza.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=RafaellSouzza.RafaellSouzza" />
+  <a href="https://gist.github.com/RafaellSouzza">
+    <img alt="Gist Badge" src="https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RafaellSouzza">
+    <img alt="Github Badge" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/>
+  </a>
+</p>
