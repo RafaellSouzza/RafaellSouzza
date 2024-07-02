@@ -38,7 +38,7 @@ _Graduação em Engenharia da Computação (Cursando) - Previsão de conclusão:
 ### CONTATO
 
 - **LinkedIn:** [Rafael Soares de Souza](https://www.linkedin.com/in/rafael-citriny1994/)
-- **Email:** [rafael.ssouza@al.infnet.edu.br](mailto:rafael.ssouza@al.infnet.edu.br)
+- **Email:** [rafael.ssouza@al.infnet.edu.br](mailto:rlcitriny@gmail.com)
 
 <p align="center">
   <img alt="Profile Views" src="https://views.whatilearened.today/views/github/RafaellSouzza/RafaellSouzza.svg" />
