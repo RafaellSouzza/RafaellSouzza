@@ -12,7 +12,7 @@
 
 ### HABILIDADES TÉCNICAS
 
-- **Linguagens de Programação:** C# (5 anos e 7 meses), Python (3 anos e 5 meses), Java (1 ano e 1 mês), JavaScript (3 anos e 5 meses), TypeScript (1 ano e 5 meses)
+- **Linguagens de Programação:** C# (5 anos e 7 meses), Python (4 anos e 5 meses), Java (5 ano e 1 mês), JavaScript (5 anos e 5 meses), TypeScript (3 ano e 5 meses)
 - **Frameworks e Bibliotecas:** .NET, Spring Boot, Hibernate, Angular, React com Redux Toolkit, Entity SQL
 - **Bancos de Dados:** MongoDB, SQL
 - **Ferramentas de Desenvolvimento:** Azure DevOps Server, Git, Jira
